@@ -1,5 +1,5 @@
 ## Hi! It's me, Wookii! 💻
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%koi 2Fgjbae1212%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 - 🔭 I’m currently working on `Kubernetes` / `Golang` / `Python`
 - 🌱 I’m currently learning `Golang` and `CP` (Competitive Programming)
