@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on `Kubernetes` / `Golang` / `Python`
 - 🌱 I’m currently learning `Golang` and `CP` (Competitive Programming)
  
-### How to contact with me! 📱 
+### How to contact with me! 📱       
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwoh.dev@gmail.com)](mailto:jwoh.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewook-oh-2b96079b/)](https://www.linkedin.com/in/jaewook-oh-2b96079b/)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-gray?style=flat-square&logo=kakao&logoColor=white&link=https://wookiist.tistory.com/)](https://wookiist.tistory.com/)         
