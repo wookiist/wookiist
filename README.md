@@ -1,4 +1,4 @@
-## Hi! It's me, Wookii! 💻     
+## Hi! It's me, Wookii! 💻 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 - 🔭 I’m currently working on `Kubernetes` / `Golang` / `Python`
@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewook-oh-2b96079b/)](https://www.linkedin.com/in/jaewook-oh-2b96079b/)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-gray?style=flat-square&logo=kakao&logoColor=white&link=https://wookiist.tistory.com/)](https://wookiist.tistory.com/)         
 
-### Wookii GitHub Stats
+### Wookii GitHub Stats!
 [![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookiist&show_icons=true&theme=vue-dark&height=180px)](https://github.com/wookiist)
 
 ### Wookii BOJ Stats  
