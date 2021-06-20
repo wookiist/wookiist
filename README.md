@@ -11,7 +11,10 @@
 [![Tistory Badge](https://img.shields.io/badge/Tistory-gray?style=flat-square&logo=kakao&logoColor=white&link=https://wookiist.dev/)](https://wookiist.dev/)   
 
 ### Wookii GitHub Stats!
-[![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookiist&show_icons=true&theme=vue-dark&height=180px)](https://github.com/wookiist)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wookiist&show_icons=true&theme=vue-dark&height=180px">
+</p>
+<!-- [![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookiist&show_icons=true&theme=vue-dark&height=180px)](https://github.com/wookiist) -->
 
 ### Wookii BOJ Stats
 <p align="center">
