@@ -16,7 +16,7 @@
 </p>
 <!-- [![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookiist&show_icons=true&theme=vue-dark&height=180px)](https://github.com/wookiist) -->
 
-## Wookii BOJ Stats
+## Wookii BOJ Stats!
 <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=wookii">
 </p>
