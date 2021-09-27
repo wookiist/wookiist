@@ -11,7 +11,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tistory-gray?style=flat-square&logo=kakao&logoColor=white&link=https://wookiist.dev/)](https://wookiist.dev/)   
 
 
-## Look out my TIL page! 📝
+## Check out my TIL page! 📝
 [![TIL Badge](https://img.shields.io/badge/TIL_Page-white.svg?&style=flat-square&logo=github&logoColor=black&link=https://til.wookiist.dev/)](https://til.wookiist.dev)
 
 ## Wookii GitHub Stats!
