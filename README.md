@@ -10,6 +10,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewook-oh-2b96079b/)](https://www.linkedin.com/in/jaewook-oh-2b96079b/)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-gray?style=flat-square&logo=kakao&logoColor=white&link=https://wookiist.dev/)](https://wookiist.dev/)   
 
+
+## Look out my TIL page! 📝
+[![TIL Badge](https://img.shields.io/badge/TIL_Page-white.svg?&style=flat-square&logo=github&logoColor=black&link=https://til.wookiist.dev/)](https://til.wookiist.dev)
+
 ## Wookii GitHub Stats!
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wookiist&show_icons=true&theme=vue-dark&height=180px">
