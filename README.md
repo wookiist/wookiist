@@ -1,17 +1,17 @@
 # Hi! It's me, Wookii! 💻
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on `Kubernetes` / `Golang` / `Python`
+- 🔭 I’m currently working on `Kubernetes` / `Airflow` / `Python`
 - 🌱 I’m currently learning `Data Engineering`, `Golang`, `Airflow`
 
 ## How to contact with me! 📱
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wookiist@wookiist.dev)](mailto:wookiist@wookiist.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewook-oh-2b96079b/)](https://www.linkedin.com/in/jaewook-oh-2b96079b/)
-[![Tistory Badge](https://img.shields.io/badge/Tech_Blog-gray?style=flat-square&logo=kakao&logoColor=white&link=https://wookiist.dev/)](https://wookiist.dev/)   
+[![Tistory Badge](https://img.shields.io/badge/Blog-gray?style=flat-square&logo=kakao&logoColor=white&link=https://wookiist.dev/)](https://wookiist.dev/)   
 
 
-## Check out my TIL page! 📝
-[![TIL Badge](https://img.shields.io/badge/TIL_Page-white.svg?&style=flat-square&logo=github&logoColor=black&link=https://til.wookiist.dev/)](https://til.wookiist.dev)
+<!-- ## Check out my TIL page! 📝
+[![TIL Badge](https://img.shields.io/badge/TIL_Page-white.svg?&style=flat-square&logo=github&logoColor=black&link=https://til.wookiist.dev/)](https://til.wookiist.dev) -->
 
 ## Wookii GitHub Stats!
 <!-- <p align="center">
@@ -19,11 +19,11 @@
 </p> -->
 [![Jaewook's GitHub stats](https://github-readme-stats.vercel.app/api?username=wookiist&show_icons=true&theme=vue-dark&height=180px)](https://github.com/wookiist)
 
-## Wookii BOJ Stats!
+<!-- ## Wookii BOJ Stats! -->
 <!-- <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=wookii">
 </p> -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wookii)](https://solved.ac/wookii)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wookii)](https://solved.ac/wookii) -->
 
 <!--
 **wookiist/wookiist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
